@@ -3,6 +3,8 @@
 평론가들의 영화 평론과 평점을 한번에 보고 싶어 진행한 프로젝트. 국내 및 해외 영화 평론 사이트에서 평론가들의 평론 및 기타 정보들을 가져와 웹사이트 구성.
 
 <b><i>Front: Vue.js, Back: Python, Node.js, Database: PostgreSQL</i></b>
+[Front Repository](https://github.com/jiwonny/movie-critics-front)
+[Server Repository](https://github.com/jiwonny/movie-critics-server)
 
 <br>
 
