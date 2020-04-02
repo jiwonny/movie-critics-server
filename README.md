@@ -1,12 +1,13 @@
-# MAD CRITICS
+# MAD CRITICS(공부 목적 개발)
 
-평론가들의 영화 평론과 평점을 한번에 보고 싶어 진행한 프로젝트. 국내 및 해외 영화 평론 사이트에서 평론가들의 평론 및 기타 정보들을 가져와 웹사이트 구성.
+평론가들의 영화 평론과 평점을 한번에 보고 싶어 진행한 프로젝트. 국내 및 해외 영화 평론 사이트에서 평론가들의 평론 및 기타 정보들을 가져와 웹사이트 구성. 공부 목적의 개발. 데이터의 저작권은 NAVER, Rotten Tomato, Movie Critics 에 있음. 
 
 <b><i>Front: Vue.js, Back: Python, Node.js, Database: PostgreSQL</i></b>
 <br>
 [Front Repository](https://github.com/jiwonny/movie-critics-front)
 <br>
 [Server Repository](https://github.com/jiwonny/movie-critics-server)
+
 
 <br>
 
@@ -27,9 +28,8 @@
 <br>
 
 ### 데이터베이스 구축
-- `Python`을 이용해 <b>크롤러</b> 만듦
-- 크롤링을 이용해 네이버 영화 사이트에 있는 영화들을 기준으로 영화 데이터베이스 구축
-- 크롤링을 이용해 Rotten Tomato 와 Movie Critic 에서 데이터베이스 내에 있는 영화가 있는지 확인하여 평론 및 평점을 데이터베이스에 추가
+- `Python` `beautifulsoup` 이용
+-  네이버 영화 사이트에 있는 영화들을 기준으로 영화 데이터베이스 구축
+-  Rotten Tomato 와 Movie Critic 에서 데이터베이스 내에 있는 영화가 있는지 확인하여 평론 및 평점을 데이터베이스에 추가
 
 <br>
-
